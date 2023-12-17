@@ -36,6 +36,6 @@
   },
   "homepage": "https://github.com/abbasmoosavi/react-native-best-viewpager.git#readme",
   "dependencies": {
-    "@react-native-community/viewpager": "git+https://marcusk639@github.com/react-native-pager-view.git#view-pager-ref-fix"
+    "@react-native-community/viewpager": "git+https://git@github.com/marcusk639/react-native-pager-view.git#view-pager-ref-fix"
   }
 }
